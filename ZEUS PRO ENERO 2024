@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="24/7 SERIES 4k" tvg-logo="https://1.bp.blogspot.com/-C8lxg5ulyBU/X4zXGFrpAAI/AAAAAAAAB2o/WMTKDEPlM4YWw6aOwmy_4NSc2HYgqiF6QCLcBGAsYHQ/w200-h200/Juego%2BDe%2Btronos4k.png",24/7 Juego de tronos (PM)(4k)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63763
 #EXTINF:-1 group-title="24/7 SERIES 4k" tvg-logo="https://1.bp.blogspot.com/-h4B__5PL_Fo/X44CUaMkCRI/AAAAAAAAB20/rjmS5fh5roEhOLhKMEOlC-kfbQ_SiRcrgCLcBGAsYHQ/w200-h200/Vikingos%2B4k.png",24/7 Vikingos (PM)(4K)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63771
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO Premium (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180308
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiLC_VXQCkNAifV1lJjHj7FcM-0hWo-H1HPnnJyvUCCszO-ytYPQi3nh7-YJL79L9z19w9Qjec6dpL6AoR6bO3DRYgoszmuPYKNYBWKn_ENfpVCW_4WOklCNVG5u8DelgF_GiRpIGViuN4IcQokCD0ItK2qT1uGrlHpjqjilbNjKCGxTHgeQ749jMlA=w200-h200",DEPORTES - Espn 4 (PM)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/975
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - Fox Sports 1 MEX (L)(1080)
@@ -15,8 +11,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69587
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/141448
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png",DOC-Animal planet (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69598
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png",DOC-Discovery Channel (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1067
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png",DOC-Discovery Home & Health (PM)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1079
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png",DOC-Discovery Home & Health (PM)(720)
@@ -39,8 +33,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1886
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1891
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png",MEX-Azteca 7 (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1882
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png",MEX-Las Estrellas (PM)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1885
 #EXTINF:-1 group-title="CANALES-MUSICA",MUS-Bandamax (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69593
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-6M6hQPgGFJA/XzRaku-tHtI/AAAAAAAAA48/8r7dtHJwJ1E80DId_OZOGi-28-hwonydgCLcBGAsYHQ/w200-h200/124%2BTv%2Bone.png",NOV-Universo Este (X)(720)
@@ -85,8 +77,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60048
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37868
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-5MLJQdlI9Oc/Xpl10dAV6OI/AAAAAAAABtk/syeOahPosZY6kPeO9yIZkQibTCf8G_xWgCLcBGAsYHQ/s200/ben10.png",24/7 Ben 10 (e)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37819
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-Re3p5MORkLw/XtQQHgp1XpI/AAAAAAAAAQQ/IwyZOHqS2U82YgndSG8UdDPx743cFt7iACK4BGAsYHg/s320/ben10AlienForce.png",24/7 Ben 10 Alien Force (e)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37867
 #EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-fpRYG7QDOS8/XtR9OdarGiI/AAAAAAAAAQ8/y3NaES5G2nEe9fpURMf6X5LZ49egV01sACK4BGAsYHg/beyblade.png",24/7 BeyBlade (e)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37869
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-oYYODt_PXqQ/Xq9KHo9LoII/AAAAAAAAB3Y/Gs_wab_RfSg7qZHtWXHNbVqZvpWUVXHhwCLcBGAsYHQ/s200/bob%2Besponja.png",24/7 Bob Esponja (e)
@@ -187,8 +177,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37908
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/225779
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-IvVu6aLrwG4/XuBQVRClDMI/AAAAAAAAAko/dg5Dcs42G9MQI7mZHcyr0JZOpKs1rHteACK4BGAsYHg/s320/dongato.png",24/7 Don Gato y su Pandilla (e)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37886
-#EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-YQ2SyK6S5P8/Xt7k4PlsHbI/AAAAAAAAAhM/hN4Q74lwqUMeCVx2y7jBDVDPj10gWPCRQCK4BGAsYHg/s320/doraemon.png",24/7 Doraemon (e)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37883
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-CNvvRR9f3JE/Xs8cZwggVSI/AAAAAAAAALA/EEPz9GMvxHo9U_TCkEm1rjxMEY9kMmK6gCK4BGAsYHg/s320/halfmen.png",24/7 Dos Hombres y Medio (e)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37791
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-ZVY2iWZLq6w/XyTAIQaDvHI/AAAAAAAACU8/l9ZPvvVKhhsYIufwda2MSoEueePjW4nNQCLcBGAsYHQ/s200/House.png",24/7 Dr. House (e)(720)
@@ -303,10 +291,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37866
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37755
 #EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png",24/7 HBO Family(M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/2106
-#EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png",24/7 HBO Plus(M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/2107
-#EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png",24/7 HBO Signature (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/2108
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-nrlqsphWNEE/XrXmYcgX-uI/AAAAAAAAB6U/r4C5gNOCSMgRp2EfTxsA_w6Jdy8oj0ODACLcBGAsYHQ/s200/He-Man%2BAnd%2BMaster%2Bof%2BUniverse.png",24/7 He-Man y los amos del universo (e)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37771
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-FXnrKXfsoAA/X2qNjWmQ-8I/AAAAAAAABec/kr_oHW4CYWMJHlCKxm4LXgvk8bOx1s2nwCLcBGAsYHQ/w200-h200/Hearld.png",24/7 Heartland (e)(720)
@@ -533,8 +517,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37836
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37749
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-vCqAmYP0dgo/XrNO_m6g5kI/AAAAAAAAB40/s3NWfLDzXrAcEuQpMS1By9yWKJslPJPrgCLcBGAsYHQ/s200/SHE-RA.png",24/7 SHE-RA La princesa del poder (e)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37849
-#EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png",24/7 Showtime Beyond(M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/2117
 #EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-8umq3vBWIdY/XqU94eO3bHI/AAAAAAAAB1M/uJXtBcbQmr04JCrD0DlFAx5vIxeU2-wxgCLcBGAsYHQ/s200/Slam%2Bdunk.png",24/7 Slam Dunk (e) (720) (e)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37843
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-fGO40BsUJ4Y/Xj2DXGVuKzI/AAAAAAAABFA/caDnLoFwSuotQxetMsUsqjigL3uo9L7mwCLcBGAsYHQ/s200/Smallville.png",24/7 SmallVille (e)(720)
@@ -615,10 +597,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37780
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63382
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png",Alcance TV | MX
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269284
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logos.xbots.com.mx/1084.png",BRA-SPORT TV 2 (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309395
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-6tQjdX3egVE/X1BUs8EdjII/AAAAAAAA5MI/MQ4mGLIIwF4MiheZiu3zQxUPWnQ1NdnlwCK8BGAsYHg/s0/2020-09-02.jpg",Canal Dios Te Ve | HN
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269291
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png",Canal ISB | CL
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269292
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png",CINE - A&E (X)(720)
@@ -631,12 +609,8 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26925
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/116476
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png",CINE - AMC (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26931
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png",CINE - AMC (M)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26744
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",CINE - AXN (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26922
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",CINE - AXN (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26761
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",CINE - AXN (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119331
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png",CINE - Cine Latino (L)(720)
@@ -651,8 +625,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26903
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1040
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",CINE - HBO (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/141189
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",CINE - HBO (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1039
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",CINE - HBO 2 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1031
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",CINE - HBO 2 (L)(1080)
@@ -743,8 +715,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1916
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26747
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png",CINE - Sony Channel (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26910
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png",CINE - Sony Channel (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1487
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png",CINE - Sony Channel (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1922
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png",CINE - Sony Cine (M)(1080)
@@ -805,8 +775,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1476
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1474
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",CINE - Golden Premiere 2 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69893
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RG0qBmZsSKA/XbfvxD0TeDI/AAAAAAAAAtY/cYZhffEHTbcbie0w_IMG2sgSAyqs80zPACLcBGAsYHQ/s200/56.png",CINE - I.Sat (M)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26752
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png",CINE - Lifetime (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26914
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO",CINE - Panico MEX (TV)(720)
@@ -825,8 +793,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26758
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1920
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ru5-dc21HTI/Xmvz5ztZLnI/AAAAAAAABZs/25I5OIJh_tEoTM5rCvQfFtj83-GqrI_fwCLcBGAsYHQ/s200/71.png",CINE - Star TVE (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26911
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png",CINE - STARZ Edge (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26751
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png",CINE - STARZ Encore Suspenso (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26918
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",CINE - Starz Family (M)(1080)
@@ -865,8 +831,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/343697
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26738
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png",CINE - Universal Premier (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/144838
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png",CINE - Universal Reality (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/144837
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png",CINE - Universal Reality (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1460
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png",CINE - Warner Channel (L)(1080)
@@ -897,8 +861,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180144
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69718
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 ARG (TV)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166827
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 ARG (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166828
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 MEX (T)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26817
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 MEX (PM)(720)
@@ -953,8 +915,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154050
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1529
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",DEPORTES - Directv Sports 1 (ARG) (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/4668
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",DEPORTES - Directv Sports 1 COL (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/4670
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DEPORTES - Directv Sports 2 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154273
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DEPORTES - Directv Sports 2 (L)(720)
@@ -963,12 +923,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154271
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154275
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png",DEPORTES - Directv Sports + (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/963
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png",DEPORTES - Directv Sports + (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154276
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png",DEPORTES - Directv Sports + (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/4674
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png",DEPORTES - Directv Sports Fight (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154277
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png",DEPORTES - Directv Sports Fight (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/20143
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - Fox Sports 1 ARG (L)(720)
@@ -1037,18 +991,10 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26813
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153586
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png",DEPORTES - Tennis Channel (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/23132
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - MEX (TV)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153613
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - MEX (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1549
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - MEX (TV)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117291
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - USA (TV)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177324
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - USA (T)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177323
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN LAT (PM)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1871
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png",DEPORTES - TVC Deportes (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1547
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png",DEPORTES - TyC Sports INT (TV)(720)
@@ -1061,8 +1007,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/8918
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/5699
 #EXTINF:-1 group-title="CANALES-DEPORTES",DEPORTES-Fox Sports Premium MX (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/252733
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/7531a8ebb710c1cab92a802384406d9a.png",Dios Te Ve Kids | HN
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269301
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/41078.png",DOC - Discovery Theater (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177631
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png",DOC-Animal Planet (TV)(720)
@@ -1089,8 +1033,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119734
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1416
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png",DOC-Discovery Home & Health (e)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1080
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png",DOC-Discovery Home & Health (e)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1081
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png",DOC-Discovery Home & Health (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1402
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-bM2_Q39fvdM/XaukeQIiYhI/AAAAAAAAAf4/yvKvVd55HEM8phsmoOuHyu0LMdHgTR9bgCLcBGAsYHQ/s200/16.png",DOC-Discovery Science (X)(720)
@@ -1101,8 +1043,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177630
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/58100
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png",DOC-Discovery Theater (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26895
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png",DOC-Discovery Theater (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1420
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/97.png",DOC-Discovery TLC (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177632
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png",DOC-Discovery TLC (M)(1080)
@@ -1157,8 +1097,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1065
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1409
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FhNEkhNUM58/Xaukf7PCtkI/AAAAAAAAAgQ/azD1CxOYTugM3KsRnyICXyCVweXcKp1_gCLcBGAsYHQ/s200/5.png",DOC-NatGeo Wild Ñ (e)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1077
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://lh3.googleusercontent.com/-UfD9uLqw3Nk/YmbHWDDkmZI/AAAAAAAADgM/IlWLqsL-yxQ41nOSbtWtmQ8IQ-nC9p2PgCNcBGAsYHQ/w200-h200/1650902870130586-0.png",DOC-Smithsonian Channel (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153308
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png",DOC-TLC Discovery (PM)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1893
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/79.png",DOC-TRU TV (L)(1080)
@@ -1169,8 +1107,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269308
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269309
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-BF4ZUEJvSq4/YH9XWmX0pCI/AAAAAAABBzE/OjA76SsZzrgS7nhWBVUpFUUMPZgE02i_ACK8BGAsYHg/s512/2021-04-20.jpg",Faro de Santidad TV | PR
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269310
-#EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.mituti.com.br/wp-content/uploads/2018/03/globo-news.png",BRA-Globo News (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309394
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-e2fNIV-SPZg/XbCJ779SimI/AAAAAAAAAnI/gnkHgVl1IjkHPfPhMUyEzUnR7ysP9jsgQCLcBGAsYHQ/s200/2.png",INF-Baby First (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26886
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-AQZxy6gL0Pk/XbCJ6CxOMZI/AAAAAAAAAmw/s41-Qh-6raYO5woohswYiGqNHWOmyEA4QCLcBGAsYHQ/s200/1.png",INF-Baby First (M)(SD)
@@ -1199,8 +1135,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1379
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1380
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-la6wQsNvPkk/XbCJ9aXLrrI/AAAAAAAAAng/NsMAaJHexuIS7mtHiiEP51S_IPsZCufBACLcBGAsYHQ/s200/8.png",INF-Disney JR (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1382
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png",INF-Disney JR (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26878
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png",INF-Nick (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1387
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png",INF-Nick (M)(720)
@@ -1223,8 +1157,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1394
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1396
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png",INF-Tooncast (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1397
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-bR09S10_R0s/Xpoa3YKDdZI/AAAAAAAABuw/9XTy-lSfk8ormXKKWD_TZeSTz8j_8ZOGACLcBGAsYHQ/s200/16.png",INF-Universal Kids (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/27335
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/582d922f43ff932f9c4c319ff8ae85d0.png",Inminente TV | AR
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269313
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/c6788a74a24fa5859af6167d6fc0f659.png",IPNA Medio | CL
@@ -1235,20 +1167,14 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269316
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269318
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png",laLiga Hypermotion 1 (X)(PPV)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308350
-#EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png",laLiga Hypermotion 2 (X)(PPV)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308352
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png",laLiga Hypermotion 1 (X)(PPV)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308354
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i.paste.pics/151c6df5f012237e0a664508de84db1e.png",Metanoia TV | CL
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269282
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-My8jG2aOmpU/XhBCyl2gbvI/AAAAAAAAA9E/EUuIZBsXKDcLtS6XjnP3m3fKXNCxn7-ZACLcBGAsYHQ/s200/18.png",MUS-Bandamax (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26943
 #EXTINF:-1 group-title="CANALES-MUSICA",MUS-HTV (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69249
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-HIvWhlHd30I/XbEy7XvOjPI/AAAAAAAAArk/jSdVBjquCdw1V9mAhW45wFLNW3hq2-bawCLcBGAsYHQ/s200/9.png",MUS-MTV (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1306
-#EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-e3AE-OWs3tk/XbEy4xSDRzI/AAAAAAAAArE/vquQx3oxdwgT2r9W9-DHX_zLgsdQKpm2wCLcBGAsYHQ/s200/2.png",MUS-MTV Hits(M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1304
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-j8099wQwSks/XbE2l4t7qpI/AAAAAAAAAsQ/YRiFu9cY9LgvCezGpfPNQZ9DOh-84YL0ACLcBGAsYHQ/s200/6.png",MUS-MTV Live (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1302
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-j8099wQwSks/XbE2l4t7qpI/AAAAAAAAAsQ/YRiFu9cY9LgvCezGpfPNQZ9DOh-84YL0ACLcBGAsYHQ/s200/6.png",MUS-MTV Live (M)(SD)
@@ -1321,10 +1247,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156990
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156935
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Chicago (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156998
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Colorado (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156999
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Colorado Springs (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156955
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Connecticut (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157000
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Dallas (L)(720)
@@ -1353,8 +1275,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156931
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157003
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo  (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156980
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Medford (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156963
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Miami (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/156929
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Miami (T)(1080)
@@ -1421,28 +1341,20 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69572
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157015
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision (X)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157014
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Atlanta (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157028
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision - Chicago (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157029
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Chicago (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157030
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Dallas (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157031
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Houston (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157032
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Los Angeles (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157022
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Los Angeles (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157024
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Los Angeles (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157025
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Miami (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157019
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Miami (TV)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157021
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Network (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157027
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision New York (TV)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157016
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision New York (X)(720)
@@ -1475,10 +1387,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153819
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153820
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  9 (X)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153821
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 01  (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1643
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 02 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1644
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 04 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1646
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 05 (M)
@@ -1487,10 +1395,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1647
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1648
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 07 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1649
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 08  (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1650
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 09 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1651
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 10 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1652
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 11  (M)
@@ -1499,34 +1403,20 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1653
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1654
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 13 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1655
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 14(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1656
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 17 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1659
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 18 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1660
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 19 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1661
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 20 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1662
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 21 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1663
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 25 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1667
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 26 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1668
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 27 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1669
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 28(M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1670
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 30(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1672
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 31(M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1673
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 32(M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1674
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 33(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1675
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png",Sublime Gracia TV | AR
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269346
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png",Tele Familia | CO
@@ -1539,16 +1429,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269354
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269356
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-DZadlN6RVe8/YE1PBh6hqPI/AAAAAAABAnc/ehjxHbBo-eMdLgTa3nzFJPjHq6kpWZgLgCK8BGAsYHg/s512/2021-03-13.png",TV Gracia | CO
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269357
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-nuR9HLpNG3g/X0ESTuyWEnI/AAAAAAAA4yk/sQN1hbmgdasBOH1527dLk1hnGSUK6xD8QCK8BGAsYHg/s0/2020-08-22.jpg",TV Rede Gospel | BR
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269358
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-h2vpbxBQU7k/X0ERjfBytiI/AAAAAAAA4yU/2FpETUkzhaYPLVcJWhQ2zFnHufp9u6zlwCK8BGAsYHg/s0/2020-08-22.jpg",TV Universal | BR
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/269360
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (KFTR-Los Angeles CA) (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157041
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (KTFO-Austin TX) (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157042
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157040
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (WFPA-Philadelphia PA) (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/157038
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (WFUT-New York NY) (M)(720)
@@ -1577,10 +1463,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153802
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22127
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png",ARG-TyC Sports Local (L)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59813
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png",ARG-Espn 1 (Local)(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22112
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Wfwx61RqKUA/X2QH-aBKXDI/AAAAAAAABVM/kdBidh7wITgIgLWEvbqEFs5e9N95YGqWwCLcBGAsYHQ/w200-h200/11%2BEspn%2B2.png",ARG-Espn 2 (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59802
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-ebsBmwjM2-g/X2QH-To3PmI/AAAAAAAABVQ/hfFa_3-baosgsuD9FWKAhNjyx-Fdl61_QCLcBGAsYHQ/w200-h200/12%2BEspn%2B3.png",ARG-Espn 3 (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59803
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png",ARG-Fox Sports Premium (T)(1080)
@@ -1595,26 +1477,18 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22094
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/116193
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-2sEle1n_QKI/X2QIFdFmlDI/AAAAAAAABWI/iVqKW-PZy9Q-qu4S6-B2q98vEMnl3h9YgCLcBGAsYHQ/w200-h200/26%2BC5n.png",ARG-C5N (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22097
-#EXTINF:-1 group-title="ARGENTINA",ARG-Canal 26 (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22100
 #EXTINF:-1 group-title="ARGENTINA",ARG-Canal De La Ciudad (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22102
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-N2gNoaFX1aY/X2Qhivn6MvI/AAAAAAAABYk/MuUMRchiueQp4L5ia5OIQuyD2_sV-panQCLcBGAsYHQ/w200-h200/41%2BMegazine.png",ARG-Ciudad Magazine (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22104
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-AdG3nZ8502Y/X2QIAmw7DfI/AAAAAAAABVk/ezNxTv6lCIAe_Wp1rBehbO8l-1IsSmI8ACLcBGAsYHQ/w200-h200/17%2BCr%25C3%25B3nica%2BTV.png",ARG-Cronica (A)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22108
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png",ARG-El Nueve (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22101
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png",ARG-El Nueve (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/116197
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22098
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/116199
 #EXTINF:-1 group-title="ARGENTINA",ARG-LN (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153864
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-GKPfx1rugzI/X2QIJbpPN8I/AAAAAAAABWo/XXuxc9Ycoz8z4BKk2qNP0LkHVKTvDX9ZgCLcBGAsYHQ/w200-h200/34%2BLN%2BARG.png",ARG-LN+ (T)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22115
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/101841
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (M)(SD)
@@ -1641,56 +1515,20 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22128
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153974
 #EXTINF:-1 group-title="BOLIVIA",BOL-Bolivision (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3751
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-wbHgtCT6kmk/YmxdwIZJp4I/AAAAAAAADlA/aBjGH8ihlr0ZYFb16TWO90-mWy_rpskkACNcBGAsYHQ/w200-h200/1651269055081101-0.png",BOL-Tigo Sports (TV)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153977
-#EXTINF:-1 group-title="BOLIVIA",BOL-Tigo Sports 1 BO (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3750
-#EXTINF:-1 group-title="BOLIVIA",BOL-Tigo Sports 2 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3748
 #EXTINF:-1 group-title="BOLIVIA",BOL-Tigo Sports 3 (SD)(M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3745
-#EXTINF:-1 group-title="BOLIVIA",BOL-Tigo Sports 3 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3746
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/MKxbkyfQ/proyectox4-24.png",•●★--DEPORTES CHILE--★●•
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/58101
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-VnhcSgVNqHA/XajpvSSZDDI/AAAAAAAAASw/KNnn79rkN0U_5ZR2jU5MIHsbZgyyDegUQCLcBGAsYHQ/s200/17.png",CHI-PPV 1 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1007
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-VnhcSgVNqHA/XajpvSSZDDI/AAAAAAAAASw/KNnn79rkN0U_5ZR2jU5MIHsbZgyyDegUQCLcBGAsYHQ/s200/17.png",CHI-PPV 2 (e)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/325351
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 1 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/121702
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 1 (e)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/334445
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 1 (L)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1026
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 1 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1025
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 1 (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153869
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 2 Chile (L)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218489
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 2 (X)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153868
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 2 (T)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/140906
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 3 Chile (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218490
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 3 (T)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/140909
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 3 (T)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/121704
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",CHI-Espn 2 (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/31524
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",CHI-Espn 2 (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/31523
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-55md5tUhHKE/YAXPUUmrNfI/AAAAAAAACC0/gooQ2-PdM6E-lB_HvnBNSlMV8Dv6sBKZACLcBGAsYHQ/w200-h200/Estadio%2Btnt%2Bsports%2BChile%2Bvisi%25C3%25B3n.png",CHI-Estadio TNT Sports (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153872
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-55md5tUhHKE/YAXPUUmrNfI/AAAAAAAACC0/gooQ2-PdM6E-lB_HvnBNSlMV8Dv6sBKZACLcBGAsYHQ/w200-h200/Estadio%2Btnt%2Bsports%2BChile%2Bvisi%25C3%25B3n.png",CHI-Estadio TNT Sports (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/140910
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1  Chile (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218484
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (T)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63080
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1021
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (M)(1080)
@@ -1699,34 +1537,16 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1020
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63081
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",CHI-Fox Sports 3 Chile (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218486
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/31527
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3206
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/31526
-#EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-qBWRMYeiP0o/XavSKAzLEuI/AAAAAAAAAjQ/3aPtNZY1580ZkMbVQgCnVyAOxmU8tsnWwCLcBGAsYHQ/s200/42.png",CHI-Camara de diputados(GEO)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1798
-#EXTINF:-1 group-title="CHILE",CHI-Canal 13 (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153867
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-Canal 13 (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218477
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-Canal 13 (M3)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1016
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-Canal 13 Opc 2 (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1014
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-Canal 13 (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3197
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",CHI-Canal 13c (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218476
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",CHI-Canal 13c (X)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3196
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO (X)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3201
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO Premium (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/994
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO Premium 1 (e)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/2748
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/140901
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (L)(720)
@@ -1769,12 +1589,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/218488
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/36500
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1018
-#EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-MlDIbcpVWxI/XavNg8r1nZI/AAAAAAAAAio/P1r2CiKdN8063yRgB774GxdHIM8aVQjnQCLcBGAsYHQ/s200/41.png",CHI-TVU Concepcion(GEO)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1797
-#EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-GCr8L7PBETo/XavFs8E8lWI/AAAAAAAAAhc/VqrqlCxKTRkxQr0jxjhTwIPtl0wPma0AwCLcBGAsYHQ/s200/29.png",CHI-UCV 3 HD(GEO)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1780
-#EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-I_xKxMvLMLE/Xajpu-MJOhI/AAAAAAAAASs/9dHswX34T5gYD02edg2apmAAFZy6lXy0wCLcBGAsYHQ/s200/16.png",CHI-Valparaiso Sporting (GEO)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1786
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-WinSports + (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/23129
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-Winsport + (T)(720)
@@ -1805,8 +1619,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59845
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59848
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (X)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/115772
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://lh3.googleusercontent.com/-HUN-e9hEmeo/YmxO22fDzlI/AAAAAAAADg4/ae3ybD14OHEIXlsudK8_b2sIh5fttNcXgCNcBGAsYHQ/w200-h200/1651265242427735-53.png",COL-Caracol. (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153307
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/118351
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (M) (SD)
@@ -1871,8 +1683,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153886
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3733
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/67714a43e5c2b9b3390cea34847f9a3c.png",CR-Repretel 6 (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153887
-#EXTINF:-1 group-title="COSTARICA",CR-TD +2 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153889
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png",CR-TD+ (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153881
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/0ad00ac33dd421c509da1a7cd5826441.png",CR-Tele Uno (L)(720)
@@ -1887,26 +1697,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3734
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153884
 #EXTINF:-1 group-title="COSTARICA",CR-Tigo Sports 1 (1080)(M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3735
-#EXTINF:-1 group-title="CUBA" tvg-logo="http://boxdigital.xyz:8080/images/3aa81d4699ef26cc3fe9c1cec790a216.png",CUB - Cubavision (X)(HQ)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153890
 #EXTINF:-1 group-title="CUBA" tvg-logo="https://1.bp.blogspot.com/-D74UrKfCz_0/X2p7yvhmzYI/AAAAAAAABd8/ZYmrreDjiWAvnb8TTnwu3Yr40ueKleJOgCLcBGAsYHQ/w200-h200/Cuba%2Bvisi%25C3%25B3n.png",CUB - Cubavision (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3729
 #EXTINF:-1 group-title="CUBA" tvg-logo="https://1.bp.blogspot.com/-cZVB0PeLpXA/YMJPc7TpP3I/AAAAAAAACTM/LRc2mvcelroAE13zmGz6Djwt5wLoWBSiACLcBGAsYHQ/w200-h200/IMG_20210610_123235.png",CUB - Cubavision Internacional (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3730
-#EXTINF:-1 group-title="CUBA" tvg-logo="https://1.bp.blogspot.com/-cZVB0PeLpXA/YMJPc7TpP3I/AAAAAAAACTM/LRc2mvcelroAE13zmGz6Djwt5wLoWBSiACLcBGAsYHQ/w200-h200/IMG_20210610_123235.png",CUB - Cubavision Internacional (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119685
 #EXTINF:-1 group-title="CUBA" tvg-logo="https://1.bp.blogspot.com/-4vpY_YWD77Y/YMJPb-pc3II/AAAAAAAACTE/dnpbxz_tfrIUWv6l-IfsiWoh87138tdFACLcBGAsYHQ/w200-h200/IMG_20210610_123202.png",CUB - Tele Rebelde (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119688
-#EXTINF:-1 group-title="CUBA" tvg-logo="http://boxdigital.xyz:8080/images/5f08274d94eef214da18c05cbf753290.png",CUB -Cubavision (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153895
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png",ECU-Gol TV  (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22153
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png",ECU-Gol TV (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22160
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal del Futbol (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/179084
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal del Futbol (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/179085
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",ECU-Directv Sports (e)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/991
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png",ECU-Teleamazonas Quito (e)(1080)
@@ -1937,8 +1733,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1110
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1111
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png",ECU-RTS Costa (e)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1103
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png",ECU-RTS Costa (e)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1104
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png",ECU-RTS Costa (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1105
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png",ECU-TC Television Quito (e)(720)
@@ -1957,8 +1751,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/121625
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/121626
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.postimg.cc/ryDRN9Yw/proyectox4-22.png",ECU-TVC UIO (PM)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180319
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png",ECU-Oromar Tv (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1100
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png",ECU-Oromar Tv (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1101
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-H5W5qz0qPb4/XjhHQmMuSPI/AAAAAAAABDo/pjnD_hVKWtARtSvJ_LCkwEvhL5vfFU9xQCLcBGAsYHQ/s200/9.png",ECU-RTU (M)(SD)
@@ -1971,8 +1763,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60138
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153912
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://1.bp.blogspot.com/-FNsrFG8aDGM/X3JUFBWoQ7I/AAAAAAAABl0/XtICZwZ5kZQOFy2y07UkTiRyx55HgDVOwCLcBGAsYHQ/w200-h200/Canal%2B3.png",GUA-Canal 3 (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60136
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://latinoamericatv.vip:8080/images/d3f6238cf4186e4b807ad607dd963c1e.png",GUA-Canal 7 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153913
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://latinoamericatv.vip:8080/images/d3f6238cf4186e4b807ad607dd963c1e.png",GUA-Canal 7 (720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153907
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://1.bp.blogspot.com/-cmmizMgMJho/X3JUFkOgPSI/AAAAAAAABl8/091dA6563LoT-WA60vdJLrggzdflnWmZACLcBGAsYHQ/w200-h200/Canal%2B7.png",GUA-Canal 7 (M)(SD)
@@ -1985,8 +1775,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153904
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153909
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://1.bp.blogspot.com/-Cq8CAu1rHh0/X3JUGnxEQtI/AAAAAAAABmE/XT3X5YYomhElpun3_j6AJAGIx1iTjoivwCLcBGAsYHQ/w200-h200/Guatevsion.png",GUA-Guatevision (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60140
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://1.bp.blogspot.com/-wwui5NskNCo/X3JUHCyCDQI/AAAAAAAABmI/dpUeS4XpadoemecyAh5KnYXEqZHjGmSkACLcBGAsYHQ/w200-h200/Retro%2Btv.png",GUA-Retro Tv (TV)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60141
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png",GUA-Tigo Sport + (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153911
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png",GUA-Tigo Sport + (T)(720)
@@ -2008,11 +1796,7 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/100800
 #EXTINF:-1 group-title="HONDURAS",HON-Que Hubo TV (T)(HQ)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/100810
 #EXTINF:-1 group-title="HONDURAS",HON-Telecadena (M)(HQ)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/100799
-#EXTINF:-1 group-title="HONDURAS",HON-Telecadena (M)(HQ)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/100805
-#EXTINF:-1 group-title="HONDURAS",HON-Teleceiba (T)(HQ)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/100813
 #EXTINF:-1 group-title="HONDURAS",HON-Telesistema (M)(HQ)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/100798
 #EXTINF:-1 group-title="HONDURAS",HON-Telesistema (M)(HQ)
@@ -2041,8 +1825,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26715
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26700
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png",MEX-Az Cinema (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26963
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png",MEX-Az Clic (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26955
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png",MEX-AZ Corazon (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153539
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png",MEX-Az Corazón (M)(SD)
@@ -2057,8 +1839,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1332
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180061
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png",MEX-Azteca Uno (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1329
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-03CaQgAcjpc/Xm5ywyaHEwI/AAAAAAAABhU/fe1Lwkx-om0RJZnr6qS0YIfL2sg7fzgQgCLcBGAsYHQ/s200/23.png",MEX-Bloomberg (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26957
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg?1587752857",MEX-Canal 10 Cancun (L)(LOCAL)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153542
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png",MEX-Canal 5 (M)(1080)
@@ -2093,16 +1873,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153534
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26977
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-y283ot09Ihc/Xm7RANtYfNI/AAAAAAAABnM/SRWTKILBpVIs98kbupZmfCTT2IheW8ceACLcBGAsYHQ/s200/46.png",MEX-Garage TV (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26692
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png",MEX-Glitz (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26953
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png",MEX-Hola TV (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26686
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png",MEX-Hola TV (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26958
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",MEX-Imagen TV (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/58099
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png",MEX-Las Estrellas (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26945
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png",MEX-Las Estrellas (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26677
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png",MEX-Las Estrellas (X)(720)
@@ -2125,14 +1901,10 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26967
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26688
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png",MEX-Nu9ve (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26964
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png",MEX-Nu9ve (X)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/31434
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png",MEX-Once TV (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26968
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-JZsHSNlgjOY/Xm7PpThP3XI/AAAAAAAABnA/hFdXkIL_ykMU1di2t1QP-7zzcp_zzq0xQCLcBGAsYHQ/s200/45.png",MEX-Px Sports (tv)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26694
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-zOeQjiwf3Ws/Xm7ZAIzD1II/AAAAAAAABpA/NG0Vae1jK10moDKhd8FjR9NYvUATKdcngCLcBGAsYHQ/s200/52.png",MEX-RMS (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1360
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png",MEX-Sundance (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26722
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png",MEX-Sundance (L)(720)
@@ -2173,8 +1945,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153927
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/5538
 #EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-4-nicaragua-tv-en-vivo.jpg",NIC-Canal 4 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153928
-#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://latinoamericatv.vip:8080/images/15b402df92ce53554056b597228a5d93.png",NIC-Canal 6 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153931
 #EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://1.bp.blogspot.com/-e3jEkRdE15Y/X3OxL1fpvfI/AAAAAAAABp8/KRwc1SzU3n0qCdjOyyzWxnsC4tOFP0auACLcBGAsYHQ/w200-h200/Canal%2B6%2BNicaragua.jpg",NIC-Canal 6 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/5540
 #EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://1.bp.blogspot.com/-Vo1q7ngUMD4/X3OxMe6p1cI/AAAAAAAABqA/7wHT2W6TebIYhRE-4E5RcQAqi-WQwMIAgCLcBGAsYHQ/w200-h200/Canal%2B8%2BNicaragua.jpg",NIC-Canal 8 (M)
@@ -2195,14 +1965,8 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/58454
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/115829
 #EXTINF:-1 group-title="PANAMA",PAN-Claro sport Panama (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/125194
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png",PAN-H.Vison (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3259
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png",PAN-hossana vision(M)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1261
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-RlNk03_ZPDQ/Xw-lUbZOl4I/AAAAAAAAAZI/yNHRGzZF_Mw7qj5tZ6gUBJxvRK6NDqFBQCLcBGAsYHQ/w200-h200/%252B23%2BPanama.png",PAN-Mas TV 23 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3255
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-RpUWzVVQZxI/Xw82mHIaXAI/AAAAAAAAAXo/O_0jZdrvoVc1aihYzO8J2m9ZzL9fBCoNQCLcBGAsYHQ/w200-h200/Nex%2BTV%2BPanama.png",PAN-Next TV 21 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3254
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",PAN-RPC 4 (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3256
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",PAN-RPC 4(M)(720)
@@ -2219,38 +1983,20 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1263
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154203
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",PAN-Telemetro 13 (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1265
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",PAN-Telemetro 13 (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3258
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png",PAN-Tigo Sports Panama (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/181195
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png",PAN-Tigo Sports Panama (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/181196
-#EXTINF:-1 group-title="PANAMA",PAN-TV MAX (X)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154198
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png",PAN-TV MAX 9 (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3261
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png",PAN-tv Max 9 (M)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1264
 #EXTINF:-1 group-title="PANAMA" tvg-logo="http://www.tvdigital.digital:80/images/a3c91c59e90c0617566c8fbe44ca5697.png",PAN-TVN (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/154205
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png",PAN-TVN Canal 2 (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3257
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png",PAN-TVN Canal 2 (T)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/118417
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-JrOIpxZm44M/X3O4mgdBcjI/AAAAAAAABqw/8lbyMtW-2s41XGOWRCpSP168bU18B_l3ACLcBGAsYHQ/w200-h200/Canal%2Bc9n%2BParaguay.png",PAR-C9N (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60120
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-PEOfjRsBMAw/X3O4q885aeI/AAAAAAAABrQ/b2gSzPbocNIk5r9yHpcYVfIlX7cPGkLXACLcBGAsYHQ/w200-h200/Farra%2Bplay%2BParaguay.png",PAR-Farra Play(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1255
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-QVh14wfX-1Q/X3O4l9KvTfI/AAAAAAAABqg/MlbExVBmd34hWVgWTT63NdkZVEzPin2kgCLcBGAsYHQ/w200-h200/Cana%2BGen%2Btv%2BParaguay.png",PAR-Gen TV(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1254
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-ay35-McTdkA/X3O4ndUsEHI/AAAAAAAABq0/F6ytXdEqeIcsVdeOoLvo2H2-JFBfsUrxwCLcBGAsYHQ/w200-h200/Canal%2Bla%2Btele%2BParaguay.png",PAR-La Tele(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1251
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-ay35-McTdkA/X3O4ndUsEHI/AAAAAAAABq0/F6ytXdEqeIcsVdeOoLvo2H2-JFBfsUrxwCLcBGAsYHQ/w200-h200/Canal%2Bla%2Btele%2BParaguay.png",PAR-La Tele(M)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1252
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay.png",PAR-Noticias PY (T)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60125
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay.png",PAR-Noticias PY(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1249
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-zJzM4ug1J-E/X3O4l11abFI/AAAAAAAABqk/V6ZgtTnTG6ITcyXGwcDyaTfvYzY4gLveQCLcBGAsYHQ/w200-h200/Canal%2BParaguay%2Btv%2BParaguay.png",PAR-Paraguay TV (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60126
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-JltdzB525gk/X3O4oWM-i4I/AAAAAAAABq8/y7Ioet0emlQ8SW5oD5Z7_zbiKJAZRyRBgCLcBGAsYHQ/w200-h200/Canal%2Bparavisi%25C3%25B3n%2BParaguay.png",PAR-Paravision (T)(720)
@@ -2261,18 +2007,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1229
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60129
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png",PAR-Telefuturo (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60130
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png",PAR-Telefuturo(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1235
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png",PAR-Tigo Sport PY (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3753
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png",PAR-Tigo Sport Plus (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1230
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png",PAR-Tigo Sports (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60132
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-NSFaHxIZvsU/X3O4rTPeqrI/AAAAAAAABrU/_X4L4S_rHiYiIIucuqmzowWIx-HJZXTKgCLcBGAsYHQ/w200-h200/Unicanal%2Bparaguay.png",PAR-Unicanal (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/60134
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-NSFaHxIZvsU/X3O4rTPeqrI/AAAAAAAABrU/_X4L4S_rHiYiIIucuqmzowWIx-HJZXTKgCLcBGAsYHQ/w200-h200/Unicanal%2Bparaguay.png",PAR-Unicanal(M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1234
 #EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo-Liga1Max-Per%C3%BA.png/640px-Logo-Liga1Max-Per%C3%BA.png",PER-Liga 1 MAX (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166149
 #EXTINF:-1 group-title="PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png",PER-Liga 1 Max (L)(720)
@@ -2315,8 +2055,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22169
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/107215
 #EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/5a021cd8bff20a0d536aa252ab0a9757.png",PER-ATV+ (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153837
-#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-3D6MQQrJLa4/X2PbXadj9JI/AAAAAAAABUM/lIKYHXWaLYQJhX1AbEh-Ep61Zfp2IpQ7QCLcBGAsYHQ/w200-h200/ATV%2B%252B.png",PER-ATV + (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153590
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png",PER-Canal N (T)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/31437
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png",PER-Canal N (X)(1080)
@@ -2399,8 +2137,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337015
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337016
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.imgur.com/ZMfcdSa.png",RPD-Color Vision (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337017
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://static.epg.best/do/Digital15.do.png",RPD-Digital Quince (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337018
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://fanc.tmsimg.com/assets/s60668_ll_h3_aa.png",RPD-Teleantillas (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337020
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://images.subsplash.com/image.jpg?id=16043bb1-7574-48a7-8da2-e04d3d3e66fe&w=1280&h=720",RPD-Telebendicion (X)(720)
@@ -2409,18 +2145,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337021
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3659
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://fanc.tmsimg.com/assets/s79427_ll_h3_aa.png",RPD-Telefuturo Canal 23 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337022
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://fanc.tmsimg.com/assets/s61566_ll_h3_aa.png",RPD-TELEMICRO (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337023
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telemilenio.jpg",RPD-Telemilenio (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337024
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord-300x169.jpg",RPD-Telenord Canal 8 (X)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337025
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.ibb.co/c6Bx4nM/VALLEVISION.png",RPD-Vallevision (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337026
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://teleuniversotv.com/wp-content/uploads/2023/10/canal29.png",RPD-Teleuniverso Canal 29 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/337027
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-LCD8pGIuUsw/YmxPIBs1JAI/AAAAAAAADik/HBIDH4VyDD0FHV5cFyonZxIY8IECCjYFQCNcBGAsYHQ/w200-h200/1651265311327007-26.png",RPD-Ame 47 (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153960
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-qZ2_vIs_6bI/X3PN2HLxqBI/AAAAAAAABss/2A1jD7amfeY19Z-MOo7dpIBOFBcq-T_GwCLcBGAsYHQ/w200-h200/Antena%2B7%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Antena 7 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/53643
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-761XAfD3b9E/X3PN2xqF9XI/AAAAAAAABs8/Ta4o8sqpmrcdVVYC1DAA6XT3quX1FwUFQCLcBGAsYHQ/w200-h200/CDN%2BRep%25C3%25BAblica%2BDominicana.png",RPD-CDN (M)(720)
@@ -2431,16 +2161,10 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3643
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3660
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-BSA2BrBrluk/X3PN4RxTvdI/AAAAAAAABtQ/e52HNTnIO6UT4caFPsG5XbVvpeowprmRwCLcBGAsYHQ/w200-h200/Color%2Bvisi%25C3%25B3n%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Color Vision (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3644
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-pL0WacmTMh0/X3PN5a3DbKI/AAAAAAAABtY/I8vFVTBdY5oKUyD8XCQJ9koGHFenAprLgCLcBGAsYHQ/w200-h200/Digital%2B15%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Digital 15 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3645
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-pL0WacmTMh0/X3PN5a3DbKI/AAAAAAAABtY/I8vFVTBdY5oKUyD8XCQJ9koGHFenAprLgCLcBGAsYHQ/w200-h200/Digital%2B15%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Digital 15 (M)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3657
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-uidQ1vCI7rg/YmxPJtZYjTI/AAAAAAAADis/1RT_PJD2ulgTw1CqRGwRd3pd-1wtVJ3owCNcBGAsYHQ/w200-h200/1651265316873091-24.png",RPD-MicroVision Canal 10 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153963
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-EQea7-4bovM/YmxPKDCIJoI/AAAAAAAADiw/7WTzZZtMHM0DOuenEeQ_bseYjwS-xRX3ACNcBGAsYHQ/w200-h200/1651265319442939-23.png",RPD-Onda TV (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153964
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-jNNeXICb97Q/YmxPNhFF3SI/AAAAAAAADjE/_j8xYpnBARwWktYdxm7KD1e8m404KPOOACNcBGAsYHQ/w200-h200/1651265331729809-18.png",RPD-Ready Television (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153972
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-0mStvjthtAI/X3PN6_NwhKI/AAAAAAAABtk/tBMdc7aTnAIUbbGN0K54jyTAoLQeSArRACLcBGAsYHQ/w200-h200/Tele%2BAntillas%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Teleantillas (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/53653
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-_sn_uwSvzmA/YmxPLdsSvFI/AAAAAAAADi4/61Fa15HFZmcZ_pO0mfpALUkzxb-F-r4YwCNcBGAsYHQ/w200-h200/1651265323828060-21.png",RPD-Telecanal 28 (X)(720)
@@ -2461,8 +2185,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3646
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/67443
 #EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c3a76f846899c633ec789079fe1e4c.png",SAL-Canal 12 (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153902
-#EXTINF:-1 group-title="SALVADOR",SAL-Canal 12 (M)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3738
 #EXTINF:-1 group-title="SALVADOR",SAL-Canal 19 (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3742
 #EXTINF:-1 group-title="SALVADOR",SAL-Canal 2 (M)
@@ -2537,8 +2259,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59830
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59835
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png",URU-TNU (TV)(SD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/22175
-#EXTINF:-1 group-title="VENEZUELA",VEN- Fox Sports Venezuela (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/107206
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png",URU-TV Ciudad (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166076
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-F89h5ZnD2-4/Ymxk2W2wpDI/AAAAAAAADlo/XKEe64t0E-Mjmp8Z5E1xajl-itmXHYsEQCNcBGAsYHQ/w200-h200/1651270871578850-3.png",VEN-CANAL I (T)(720)
@@ -2555,22 +2275,16 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153992
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/107203
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-JN8wjuDoHFE/YmxPTcrqfhI/AAAAAAAADjs/Z63W1Nhx7zEl4TdGsgjkM3GCU3jWdKnWwCNcBGAsYHQ/w200-h200/1651265355926147-8.png",VEN-Telesur (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153983
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-MiciUQ0uCbg/YmxPUHBhAzI/AAAAAAAADjw/4gH90MVrzrwpWRsbKmoBEJUasUbnNuR0gCNcBGAsYHQ/w200-h200/1651265359033640-7.png",VEN-Televen (X)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153985
 #EXTINF:-1 group-title="VENEZUELA",VEN-TLT (M)(HQ)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/107202
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-iY9RH4SBkOg/YmxPWxcv-1I/AAAAAAAADkE/0Qv4vhEnjyMA8HD5CICnF7stXWMFxwQAwCNcBGAsYHQ/w200-h200/1651265370402877-2.png",VEN-TLT (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153989
 #EXTINF:-1 group-title="VENEZUELA",VEN-Tves (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/107205
-#EXTINF:-1 group-title="VENEZUELA",VEN-Ve Plus (X)(SD)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/107201
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-DdVWa5HL7Gw/YmxPSDGPdJI/AAAAAAAADjk/O31vWrq8LP8ru1Fci92De5R_AqY9rRWcgCNcBGAsYHQ/w200-h200/1651265350566494-10.png",VEN-Venevision (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153981
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-YDuwzT6TTPE/YmxPSsK8k1I/AAAAAAAADjo/lsoU8iac454NwS9CR-caxE2pLE-E6UpRACNcBGAsYHQ/w200-h200/1651265352925832-9.png",VEN-Venevision Plus (X)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153982
-#EXTINF:-1 group-title="COLOMBIA (LOCAL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",COL-Caracol TV (Local)(T)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336860
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",PR-Telemundo (T)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1228
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png",MEX-Azteca Uno (T)(720)
@@ -2603,8 +2317,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336708
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117217
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png",ESP - Baby TV (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336655
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-RqFxhfTv8bQ/XxZrm1v9DoI/AAAAAAAAAgw/GGN74RCmf14EAPhFlzygmIzM6J7mD9mZACLcBGAsYHQ/w200-h200/26%2BBaby%2BTV.png",ESP - Baby TV (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117274
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",ESP - Barca TV (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336709
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",ESP - BE MAD (T)(720)
@@ -2829,36 +2541,14 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308763
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308764
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png",M. Liga de Campeones 7 (SOLO EVENTOS)(X)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308765
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: Bravo TV (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333952
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: CBC Windsor (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333956
 #EXTINF:-1 group-title="CANADA PREMIUM",CA: CP24 (T)(HD)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336097
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: Discovery Science (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333962
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: FXX (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333967
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: Super Ecran 3 (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333987
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: TLC (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333975
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: TSN 2 (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333977
-#EXTINF:-1 group-title="CANADA PREMIUM",CA: TSN 4 (M)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/333979
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png",CAN-CBS Newhampshire (L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272781
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png",CAN-CBS Newjersey (L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272782
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png",CAN-CBS Utah (L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272783
-#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png",CAN-CNN  HD (L)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272763
-#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-E-X433aSl3c/YL6TLJqOhDI/AAAAAAAACRY/Y-aQiBqSRYw7hDB8ucpxUWVZlsd10S_MACLcBGAsYHQ/w200-h200/IMG_20210607_162322.png",CAN-CTV News Live Events 3 (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3680
-#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="http://live.detodotvplay.com:8080/images/5b76cf00395e1456d04b18c1ce0671a4.png",CAN-DISNEY CHANNEL (L)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272752
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png",CAN-Golf (T)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119367
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="http://live.detodotvplay.com:8080/images/46d3a8a08eb2cf06479b866ce87ba5b2.png",CAN-SPORTS NET 360 HD (L)
@@ -2879,16 +2569,8 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153957
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119368
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png",CAN-TSN SPORTS 1 (L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272744
-#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png",CAN-TSN SPORTS 2 (L)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272745
-#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png",CAN-TSN SPORTS 3 (L)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272746
-#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png",CAN-TSN SPORTS 4 (L)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272747
 #EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png",CAN-TSN SPORTS 5 (L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/272748
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - USA (X)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/66004
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://archive.org/download/sky-Sports-nfl/SkySports-NFL.png",UK - Sports NFL (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309406
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="http://live.detodotvplay.com:8080/images/ad64b9b9d33c9d3448278f83d51d900c.png",UK - SportsArena (L)(720)
@@ -2903,84 +2585,32 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309401
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309410
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png",UK - SportsPL (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309404
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="http://live.detodotvplay.com:8080/images/264a2a596731acfa94bceecef7e9dde1.png",UK - SportsRacing (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309405
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png",UK - TNT Sports 1 (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309407
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png",UK - TNT Sports 2 (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309408
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png",UK - TNT Sports 3 (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/309409
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-z44bXBmlO2M/X30ukI8W68I/AAAAAAAABw8/U_7wwm6_3nwSNo8F6OjCf8_y8pDbdUMfQCLcBGAsYHQ/w200-h200/Cinemax%2Bwest%2BUSA.png",USA - 24/7 Cinemax West (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63660
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-CPYOdeib4Io/X30unOr_QAI/AAAAAAAABxU/OtovXSFAPGwrKRZuB10b3ZNfL0216L7nwCLcBGAsYHQ/w200-h200/Indieplex.png",USA - 24/7 IndiePlex (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63659
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-zks8SnjCDwY/X30urPh393I/AAAAAAAABx0/Q6fkBfj9YBcEbaNLozmtJGcx3YGLuJLswCLcBGAsYHQ/w200-h200/Movieplex%2BUSA.png",USA - 24/7 MoviePlex (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63656
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-bXFzkZ9-JRs/X30usgwRklI/AAAAAAAAByA/AILAp8eGsCIf4hMzIdDN8yaeC75WnhSBACLcBGAsYHQ/w200-h200/Outer%2BMax%2BUSA.png",USA - 24/7 OuterMax (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63655
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-uR7QxSJgzi0/X30utoaXD7I/AAAAAAAAByI/_EOvaSmiOpohyHynuwplH8JdyewjqCKUQCLcBGAsYHQ/w200-h200/Retro%2Bplex%2BUSA.png",USA - 24/7 RetroPlex (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63654
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-k3QGYuaObs0/X30uwFyN0mI/AAAAAAAAByc/0WXEld4w4d0hWOgTifVvxbSJDXRKTbgYACLcBGAsYHQ/w200-h200/Show%2Btime%2BUSA.png",USA - 24/7 Showtime West (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63653
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-x-myeghvdgo/X30u2AfYdyI/AAAAAAAABzM/B-wAfXukKdgB5PFsesoJymhsZlpwbFqkgCLcBGAsYHQ/w200-h200/Starz.png",USA - 24/7 Starz (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63634
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-8_VmDKpRRuM/X30uxLJ24OI/AAAAAAAAByk/taNvCozXCTYbUmBWJHgHRm5VRnlMZlL_gCLcBGAsYHQ/w200-h200/Starz%2BBlack%2BUSA.png",USA - 24/7 Starz Black (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63652
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-jGUGrTO6lH4/X30u1jLNXAI/AAAAAAAABzI/0eDD5kyDh8kzfeWG1tUS7ere9cNS3pvggCLcBGAsYHQ/w200-h200/Starz%2Bwest%2BUSA.png",USA - 24/7 Starz Cinema West (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63649
 #EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-I7USIggss04/X30uyEC9U3I/AAAAAAAABys/uVR-3trsRf0fQVIg2Dg4ey8Qu96XmF-XACLcBGAsYHQ/w200-h200/Starz%2BComedy%2BUSA.png",USA - 24/7 Starz Comedy (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63648
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-lfvTqS2R4sk/X30uyqTYcxI/AAAAAAAAByw/laKMQgIlU081P-JSEQ5K-L4_ykjIH4UaACLcBGAsYHQ/w200-h200/Starz%2BEast%2BUSA.png",USA - 24/7 Starz East (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63647
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-aQD9OyOdtAI/X30u0EMxZQI/AAAAAAAABy8/CZjXiAviGJ4D2qCT0mbmkbhhXVRYueHaQCLcBGAsYHQ/w200-h200/Starz%2Bencore%2Baction%2BUSA.png",USA - 24/7 Starz Encore Action (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63643
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-5gOd0dla1bc/X30u0vKnJQI/AAAAAAAABzA/cld5hfuVPwIHl2ffOhvVtbJzUaoIEDbDwCLcBGAsYHQ/w200-h200/Starz%2Bencore%2Bfamily%2BUSA.png",USA - 24/7 Starz Encore Family (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63640
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-YeTZbSJEo6U/X30u1PbQV7I/AAAAAAAABzE/MMxqLbAuc4ITFQftnj66-DbvZdsl2L80ACLcBGAsYHQ/w200-h200/Starz%2Bencore%2Bwest%2BUSA.png",USA - 24/7 Starz Encore West (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63636
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-Ln5sC4Ace5s/X30uzInXV-I/AAAAAAAABy0/bz2vi29OWB4seG6Ob591CzSZ8A0Ydu0SgCLcBGAsYHQ/w200-h200/Starz%2BFamily%2BUSA.png",USA - 24/7 Starz Family (M)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/63635
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/1200px-WPVI-TV_logos.svg.png",USA-6 ABC Philadelphia (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335870
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/ae.png",USA-A&E (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177486
 #EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-A&E (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59938
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/abc-10-kgtv-us.png",USA-ABC 10 San Diego (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338177
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://i.postimg.cc/wT0Xw2FQ/proyectox-ABC-20.png",USA-ABC 10 San Diego (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177603
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd",USA-ABC 10 San Diego (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335883
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="http://live.detodotvplay.com:8080/images/bafac894e239e2054da5c168e5eb1966.png",USA-ABC 10 | Sacramento (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335884
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np4qRAF7zuwLEybvc-0KPxTt3UsYxjCHeuB6YVsTkvhwZpPTSWEUnTU5cj0qOw48Xl.png",USA-ABC 12 San Antonio (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338178
-#EXTINF:-1 group-title="USA-ABC",USA-ABC 13 (KTRK) Houston (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338179
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png",USA-ABC 13 |  Houston (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335885
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/abc-15-knxv-us.png",USA-ABC 15 Phoenix (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338180
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd",USA-ABC 15 Phoenix (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335886
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/abc-2-wmar-us.png",USA-ABC 2 Atlanta (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338181
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/abc-5-koco-us.png",USA-ABC 5 Cleveland (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338186
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png",USA-ABC 7 California Los Angeles (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335890
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd",USA-ABC 7 Chicago (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335888
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/abc-7-kabc-us.png",USA-ABC 7 Denver (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338188
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://i.postimg.cc/wT0Xw2FQ/proyectox-ABC-20.png",USA-ABC 7 | New York (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177610
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/WABC-TV_logo.svg/1200px-WABC-TV_logo.svg.png",USA-ABC 7 | New York (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335889
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np4qRAF7zuwLEybvc-0KPxTlAb9mFWYxHu1W6qb7onnKTuiaK0XC3Djxu1a4Yxc7ge.png",USA-ABC 9 (WFTV) Orlando (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338190
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KTUL_logo.svg/1200px-KTUL_logo.svg.png",USA-ABC KTUL Tulsa (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335874
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="http://live.detodotvplay.com:8080/images/ddd26d4d75cfe6a60b70f3e7765b6fa1.png",USA-ABC Las Vegas | KTNV (L)(720)
@@ -2989,18 +2619,10 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335891
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177616
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png",USA-ABC LOCAL 10 Miami (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335892
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/abc-logo-2013-aluminum-us.png",USA-ABC Miami (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338196
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/abc-logo-2013-aluminum-us.png",USA-ABC Nashville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338197
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd",USA-ABC News 5 | Cleveland (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335893
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png",USA-ABC Northdakota (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335881
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="https://asiagrandiptv.us/logo/abcPhiladelphia.png",USA-ABC Philadelphia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338200
-#EXTINF:-1 group-title="USA-ABC" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1npLNWPuU88s4kfbcHRVi-JzjdAENRuQ0e-n2-FlSX0W2t3TsSuZ5ilmQLC_we4cTlk.png",USA-ABC Pittsburgh (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338201
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png",USA-ABC West Virginia (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335882
 #EXTINF:-1 group-title="USA-ABC" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd",USA-ABC WFTV 9 | Orlando (L)(720)
@@ -3023,10 +2645,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336615
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336616
 #EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png",USA-Baby First (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/271222
-#EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports arizona (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166753
-#EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports arizona Plus (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166754
 #EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports Detroit (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166735
 #EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports Detroit Plus (L)(720)
@@ -3101,104 +2719,30 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/59989
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/271226
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png",USA-CBS  | Wisconsin (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335923
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 10 (KOLR) Springfield (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338317
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np4qRAF7zuwLEybvc-0KPxTrvyjkMJm32Zftk6bwLYVl2QRZdWTDITmtPAeDX1b02y.png",USA-CBS 10 Columbus (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338318
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://www.logolynx.com/images/logolynx/65/65abf86f0841a218dbea90ec8defe2fd.png",USA-CBS 10TV | Columbus (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335902
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 11 (KHOU) Houston (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338320
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 11 (KKTV) Colorado Springs (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338321
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1npJusbKtJp9K521K1OBgU246FiLo4O06UiI5Twxu0f9iM.png",USA-CBS 11 Fort Myers (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338323
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 12 (WBNG) Binghamton (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338324
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 12 (WKRC) Cincinnati (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338326
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 12 (WPEC) West Palm Beach/Fort Pierce (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338327
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 13 (KOLD) Tucson (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338328
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 13 (WBTW) (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338330
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 13 (WBTW) Florence (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338331
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS 13 Sacramento (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335903
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 18 (WECP-LD) Panama City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338340
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 19 (KYTX) Longview (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338341
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 19 (WLTX) Columbia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338342
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 2 (KBOI) Boise (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338343
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS 2 Chicago (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335904
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo/cbslosangeles.png",USA-CBS 2 Los Angeles (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338348
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png",USA-CBS 2 | California Los Angeles (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335887
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 21 (WHP) Harrisburg (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338349
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo//CBS(WYOU)WILKES-BARRE.jpeg",USA-CBS 22 (WYOU) (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338350
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 23 (WIFR-LD) Rockford (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338351
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 24 (WMDN) Meridian (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338352
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 3 (WRBL) Columbus GA (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338357
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 3 (WREG) Memphis (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338358
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png",USA-CBS 3 | Philadelphia (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335905
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 31 (WMBD) Peoria (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338363
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 32 (KTAB) Abilene (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338364
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 32 (WLKY) Louisville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338365
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 4 (WHBF) Rock Island (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338370
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo//cbsdenverco.png",USA-CBS 4 Denver (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338372
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://www.pinclipart.com/picdir/middle/112-1120115_cbs4-logos-cbs-4-clipart.png",USA-CBS 4 Miami (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335906
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo//CBSNEWORLEANSWWL-TV.jpeg",USA-CBS 4 New Orleans WWL-TV (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338375
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1npdZpzbsXjLXsHq1FBwecBEGxRvWrX0-4H0LBCW_Ay8T4.png",USA-CBS 4 Saint Luis KMOV (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338376
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://cbs4indy.com/wp-content/uploads/sites/22/2017/03/cropped-cbs4512.png",USA-CBS 4 | Indiana (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335907
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 42 (KEYE) Austin (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338377
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS 46 Atlanta (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335908
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="http://live.detodotvplay.com:8080/images/0e79797c5b2740eb6001ea4896b77b13.png",USA-CBS 47 Fresno (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335875
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo//CBS(KGMB).jpeg",USA-CBS 5 (KGMB) (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338382
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 5 (WCSC) (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338384
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 5 (WCSC) Charleston (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338385
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS 5 Phoenix (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335909
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png",USA-CBS 5 | Arizona (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335910
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 6 (KAUZ) Wichita Falls (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338392
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo//CBS(WLNS)LANSING.jpeg",USA-CBS 6 (WLNS) (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338397
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS 8 San Diego (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335911
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 9 (KWTV) Oklahoma City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338408
-#EXTINF:-1 group-title="USA-CBS",USA-CBS 9 (WNCT) Greenville/New Bern/Washington (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338409
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS Cleveland 19 (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335912
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYE_CBS_Austin_logo.png",USA-CBS KEYE | Austin (L)(1080)
@@ -3211,18 +2755,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335915
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335916
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/KLAS-TV_8_logo.png",USA-CBS Las Vegas | KLAS (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335917
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo/cbslosangeles.png",USA-CBS Los Angeles (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338416
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://asiagrandiptv.us/logo//cbsnewyork.png",USA-CBS New York (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338418
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png",USA-CBS Newjersey (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335899
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd",USA-CBS News 6 | Orlando (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335918
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png",USA-CBS News | New York (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335919
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/cbs-logo-white-us.png",USA-CBS San Francisco (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338421
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png",USA-CBS Tennessee | WTVF (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335920
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png",USA-CBS Utah (L)(1080)
@@ -3231,8 +2769,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335900
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335901
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/AERISHLTVVE77I4IUP2N3DCPSY.png",USA-CBS WBTV | Charlotte (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335921
-#EXTINF:-1 group-title="USA-CBS" tvg-logo="http://live.detodotvplay.com:8080/images/b876c2d245c6fd06581247cc21f0ebcc.png",USA-CBS WBZ 4 | Boston (L)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335922
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/WTAJ10.png",USA-CBS WTAJ | Pennsylvania (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335924
 #EXTINF:-1 group-title="USA-CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png",USA-CBS WTOC 11 | Georgia (L)(1080)
@@ -3267,104 +2803,34 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166814
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166818
 #EXTINF:-1 group-title="USA-SPORTS",USA-Espn U (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/166816
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KBSI)PADUCAH.jpeg",USA-FOX (KBSI) Paducah (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338206
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KFOX)ELPASO.jpg",USA-FOX (KFOX) EL Paso (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338207
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KMPH)Fresno.jpeg",USA-FOX (KMPH) Fresno/Visalia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338209
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KOKH)OKLAHOMACITY.png",USA-FOX (KOKH) Oklahoma City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338210
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(WACH)COLUMBIA.jpg",USA-FOX (WACH) Columbia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338211
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//fox.png",USA-FOX (WDKY) Lexington (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338212
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-11-kttv-us.png",USA-FOX 11 Los Angeles (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338216
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KFOX)ELPASO.jpg",USA-FOX 14 (KFOX) El Paso (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338217
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np4qRAF7zuwLEybvc-0KPxToza2fk5B0R3DWTxuzLEkIGTJOLEkRJd6iJws4uUJ9Us.png",USA-FOX 16 Little Rock (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338218
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KOKI)TULSA.jpg",USA-FOX 23 (KOKI) Tulsa (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338226
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/pf/resources/images/sites/cmg-tv-10100/station-logo.png",USA-Fox 23 Tulsa (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335873
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KOKH)OKLAHOMACITY.png",USA-FOX 25 (KOKH) Oklahoma City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338227
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png",USA-FOX 25 | Boston (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335930
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png",USA-Fox 26 Fresno (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335876
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png",USA-FOX 26 Houston  (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335928
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-26-kmph-us.png",USA-FOX 26 Houston (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338230
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(WTGS)HARDEEVILLE.png",USA-FOX 28 (WTGS) Hardeeville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338231
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-28-wnyf-cd-us.png",USA-FOX 28 Columbus (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338232
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png",USA-FOX 28 Columbus (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335868
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KABB)SANANTONIO.jpg",USA-FOX 29 (KABB) San Antonio (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338233
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-29-wutv-us.png",USA-FOX 29 Philadelphia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338234
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png",USA-FOX 29 Philadelphia (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335871
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(WUHF)ROCHESTER.png",USA-FOX 31 (WUHF) Rochester (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338236
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd",USA-FOX 32 Chicago (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335931
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd",USA-FOX 35 Orlando (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335932
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(WRGT)DAYTON.jpg",USA-FOX 45 (WRGT) Dayton (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338242
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX 49 Louisville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338244
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-5-wnyw-us.png",USA-FOX 5 New York (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338245
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-York-a.svg/1200px-Fts-new-York-a.svg.png",USA-FOX 5 | New York (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335926
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-55-27-wrsp-us.png",USA-FOX 55 Fort Wayne (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338248
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(WDKY)DANVILLE.jpeg",USA-FOX 56 (WDKY) Danville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338249
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX 59 Indianapolis (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338250
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//TUBIWITIFOXMILWAUKEE.jpg",USA-FOX 6 Milwaukee (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338252
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KFXV).png",USA-FOX 67 (KFXV) (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338253
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//FOX(KFXV)TEXAS.png",USA-FOX 67 (KFXV) Texas (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338254
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/us-local/fox-7-wzaw-us.png",USA-FOX 7 Miami (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338255
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX Albuquerque (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338256
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX Bloomington (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338262
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX Boston (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338263
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX Buffalo (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338264
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png",USA-FOX Business Network (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335927
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png",USA-FOX Colorado (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335933
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np6nb-sMusSbVY5-Zqt1qQHs8UhP4vemYHawB12e-5O9s.png",USA-Fox Dallas (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338274
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png",USA-Fox Deportes (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336632
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo//foxdeportes.png",USA-Fox Deportes (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338041
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png",USA-FOX Indiana (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335934
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png",USA-FOX Minnesota (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335935
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX Nashville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338295
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://asiagrandiptv.us/logo//foxnewsf.png",USA-FOX NEWS (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338297
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://logos.xbots.com.mx/41086.png",USA-FOX NEWS (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335941
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png",USA-FOX Northcarolina (L)(720)
@@ -3375,32 +2841,8 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335937
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335938
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png",USA-FOX Pennsylvania (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335939
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png",USA-FOX Pittsburgh (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338301
-#EXTINF:-1 group-title="USA-FOX" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np6nb-sMusSbVY5-Zqt1qQHs8UhP4vemYHawB12e-5O9s.png",USA-FOX San Antonio (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338308
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png",USA-FOX South Carolina (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335940
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-sports-1-us.png",USA-Fox Sports 1 (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338042
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png",USA-Fox Sports 2 (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338043
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsportsarizona.png",USA-Fox Sports Arizona (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338044
-#EXTINF:-1 group-title="USA-SPORTS",USA-Fox Sports Netbase (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338052
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsportsohio.png",USA-Fox Sports Ohio (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338054
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsportssouth.png",USA-Fox Sports South (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338058
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-sports-us.png",USA-Fox Sports Southeast (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338059
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsportssouthwest.png",USA-Fox Sports Southwest (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338060
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsportssun.png",USA-Fox Sports Sun (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338062
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://asiagrandiptv.us/logo/foxsportswest.png",USA-Fox Sports West (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338064
 #EXTINF:-1 group-title="USA-FOX" tvg-logo="https://en-academic.com/pictures/enwiki/87/WSVN.png",USA-FOX WSVN 7 Miami (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335929
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-Sports-fs1-logo-white.png",USA-FS1 (1080)(L)
@@ -3467,100 +2909,28 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177378
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177377
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://www.Sportsmediawatch.com/wp-content/uploads/2017/07/nba-logo.png",USA-NBA TV (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336643
-#EXTINF:-1 group-title="USA-NBC",USA-NBC 10 (WBIR) Knoxville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338069
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/nbc-logo-alt-us.png",USA-NBC 10 Columbia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338070
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcPhiladelphia.png",USA-NBC 10 Philadelphia (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338071
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="http://live.detodotvplay.com:8080/images/c3c95cf21f4bb1fc7394586f36fa0cf8.png",USA-NBC 10 Philadelphia (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335872
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC 10 Rochester (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338072
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC1(WPXI)Pittsburgh.png",USA-NBC 11 (WPXI) Pittsburgh (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338074
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd",USA-NBC 11 Alive Atlanta (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335860
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd",USA-NBC 12 Phoenix (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335861
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbchonolulu.png",USA-NBC 13 Honolulu (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338079
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC 16 South Bend (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338081
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcbakersfield.png",USA-NBC 17 (KGET) Bakersfield (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338082
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC 18 Lexington (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338083
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(KJRH)TULSA.jpg",USA-NBC 2 (KJRH) Tulsa (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338084
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcbuffalo.png",USA-NBC 2 Buffalo (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338085
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbchouston.png",USA-NBC 2 Houston (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338086
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(WFMJ)YOUNGSTOWN.jpg",USA-NBC 21 (WFMJ) Youngstown (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338088
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC 22 (WWLP) Springfield (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338089
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcCleveland.png",USA-NBC 3 Cleveland (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338094
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcsacramento.png",USA-NBC 3 Sacramento (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338095
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbccharlotte.png",USA-NBC 36 Charlotte (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338097
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(WNBC)NEWYORK.png",USA-NBC 4 (WNBC) New York (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338106
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(WRC)WASHINGTON.png",USA-NBC 4 (WRC) Washington (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338107
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/WCMH-TV_logo.png",USA-NBC 4 Columbus (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335869
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png",USA-NBC 4 WSMV | Tennessee (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335862
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbckansascity.png",USA-NBC 41 Kansas City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338109
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(KING)SEATTLE.jpeg",USA-NBC 5 (KING) Seattle (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338112
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(KSL)SALTLAKECITY.jpeg",USA-NBC 5 (KSL) Salt Lake City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338113
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(WMAQ)CHICAGO.jpeg",USA-NBC 5 (WMAQ) Chicago (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338116
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcchicago.png",USA-NBC 5 Chicago (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338118
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd",USA-NBC 5 Chicago (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335863
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//NBC(WJHG)PANAMACITY.jpeg",USA-NBC 7 (WJHG) Panama City (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338126
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd",USA-NBC 7 San Diego (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335864
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//nbc.png",USA-NBC 8 (WFLA) TAMPA/Saint Petersburg (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338127
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo//nbc.png",USA-NBC 9 (KTSM) El Paso (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338128
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcdenver.png",USA-NBC 9 Denver (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338129
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png",USA-NBC California Los Angeles 4 (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335865
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png",USA-NBC Florida Miami 6 (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335866
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcindianapolis.png",USA-NBC Indianapolis (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338133
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC Jackson (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338134
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcjacksonville.png",USA-NBC Jacksonville (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338135
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",USA-NBC KSNV Las Vegas (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335857
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC Lancaster (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338137
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbclosangeles.png",USA-NBC Los Angeles (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338138
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcnewyork.png",USA-NBC New York (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338143
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",USA-NBC New York (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335858
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcPittsburgh.png",USA-NBC Pittsburgh (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338145
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcportland.png",USA-NBC Portland (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338146
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png",USA-NBC Sports Bay Area (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336609
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="http://live.detodotvplay.com:8080/images/ce3bc7ed47d99697c8e8e317d8eacaae.png",USA-NBC Sports Philadelphia Plus (1080)(L)
@@ -3569,22 +2939,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336611
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336610
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png",USA-NBC Sports Washington Plus (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336612
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbc.png",USA-NBC Tallahassee (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338152
 #EXTINF:-1 group-title="USA-NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Universo_LOGO_color_black.png",USA-NBC Universo (L)(720)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/335859
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://asiagrandiptv.us/logo/nbcwashington.png",USA-NBC Washington (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338155
-#EXTINF:-1 group-title="USA-NBC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/nbc-logo-flat-us.png",USA-NBC Yuma (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338156
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2021/02/nesn_logo.png",USA-NESN (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336644
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nesn-plus.png",USA-NESN PLUS (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336645
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/countrypic.png",USA-NEWS 12 The Bronx (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338163
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://asiagrandiptv.us/logo//newsnet.png",USA-Newsnet (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/338164
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://www.netclipart.com/pp/m/351-3514505_vector-nfl-logo-png-nfl-network-logo-png.png",USA-NFL Network (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336613
 #EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="http://iptvboss.xyz/logos/USA/NickJr.us.png",USA-Nick Jr West (L)(720)
@@ -3629,8 +2989,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177494
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336623
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png",USA-SNY (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177496
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sony_pictures_logo.png",USA-Sony Movies (L)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177497
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/spectrum-news.png",USA-Spectrum News 1 (1080)(L)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336625
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://logos.xbots.com.mx/41042.png",USA-SPECTRUM Sports NET LA Dodgers (1080)(L)
@@ -3675,10 +3033,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177382
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177498
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-ZZO56oC96aI/XzNnmCM7DwI/AAAAAAAAAzM/FEj4-g6q3MM4BhoVclYm-ZaELKD9mim8QCLcBGAsYHQ/w200-h200/108%2BTNT.png",USA-TNT (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/35811
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="http://iptvboss.xyz/logos/USA/UniversalKidsPacific.us.png",USA-Universal Kids East (L)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/271240
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="http://iptvboss.xyz/logos/USA/UniversalKidsPacific.us.png",USA-Universal Kids West (L)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/271241
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/41069.png",USA-USA Network (L)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/177500
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png",USA-YES Network (1080)(L)
@@ -3699,16 +3053,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/55260
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153948
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV (M)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/55303
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Hustler TV (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/67375
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-tuuEhpWhxaI/YmxO-d-NAEI/AAAAAAAADho/k0Oq1C8JIYklFPPF7VeqBz6Iga67I6QXQCNcBGAsYHQ/w200-h200/1651265272113636-41.png",XXX - Penthouse Gold (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153944
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-HSHMTnnwbI8/YmxO7Q282QI/AAAAAAAADhU/RXQYxog_skMVfLU-CgEhpNO2YGfGUvnGQCNcBGAsYHQ/w200-h200/1651265259506183-46.png",XXX - Penthouse Quickies (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153938
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/--iCVY_YhcVc/YmxPCIu49iI/AAAAAAAADiA/-NBrWgDvKGwAia9ij8twjoKhk0NiVcJnQCNcBGAsYHQ/w200-h200/1651265286987585-35.png",XXX - Playboy TV (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153951
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Playboy TV (A)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/67383
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-aYGvU4uGJas/YmxPBV1e6cI/AAAAAAAADh8/oL6BLkxu1FYXpKLUTDugMemnA-NbXzaqQCNcBGAsYHQ/w200-h200/1651265284576848-36.png",XXX - Private TV (X)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153949
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-r5GgIwh2etE/YmxO9GoR6nI/AAAAAAAADhg/AfuU-G0ofxcCuvlEO0qTsfQuRM4BTnwNgCNcBGAsYHQ/w200-h200/1651265266401120-43.png",XXX - Redlight (X)(1080)
@@ -3747,8 +3097,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153953
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/153942
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - X1 (M)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/67372
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - XXL (A)(720)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/69991
 #EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans 1 (e)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354689
 #EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans 2 (e)(1080)
@@ -3791,22 +3139,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354707
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354708
 #EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans - Chloe Cream (e)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354709
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24/7 OnlyFans 1 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/349309
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans 2 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/350728
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans 3 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/350729
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans 4 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/350730
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans - Lizbeth Rodriguez (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/350849
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans -Auhneesh Nicole (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/353252
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans-Cintia Cossio (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/353566
-#EXTINF:-1 group-title="24/7 Only Fans (+18)" tvg-logo="https://i.postimg.cc/PJgbqL0c/Proyecto-X-18.png",24-7 OnlyFans - VanesaBP19 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354342
 #EXTINF:-1 group-title="24/7 REALITY LIVE" tvg-logo="https://i.imgur.com/xAPpSzS.png",Gran Hermano - Argentina 24Hrs
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/349289
 #EXTINF:-1 group-title="24/7 REALITY LIVE" tvg-logo="https://i.imgur.com/xAPpSzS.png",Gran Hermano - Cámara 1
@@ -3815,176 +3147,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/349290
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/349291
 #EXTINF:-1 group-title="24/7 REALITY LIVE" tvg-logo="https://i.imgur.com/xAPpSzS.png",Gran Hermano - Cámara 3
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/349292
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal Del Futbol (L)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/65386
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://static.vecteezy.com/system/resources/previews/028/115/302/non_2x/ppv-pay-per-view-icon-design-vector.jpg",PPV 1 - Eventos 1 (e)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/353966
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://static.vecteezy.com/system/resources/previews/028/115/302/non_2x/ppv-pay-per-view-icon-design-vector.jpg",PPV 2 - Eventos 2 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/353967
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://static.vecteezy.com/system/resources/previews/028/115/302/non_2x/ppv-pay-per-view-icon-design-vector.jpg",PPV 3 - Eventos 3  (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/353968
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://static.vecteezy.com/system/resources/previews/028/115/302/non_2x/ppv-pay-per-view-icon-design-vector.jpg",PPV 4 - Evento 4 (e)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/353969
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png",NFL Game Pass 1 | Browns @ Texans | Sat 13th 3:30PM
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354811
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png",NFL Game Pass 2 | Browns @ Texans (en español) | Sat 13th 3:30PM
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354812
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png",NFL Game Pass 3 | Dolphins @ Chiefs (en español) | Sat 13th 7:10PM
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354813
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png",NFL Game Pass 4 | Dolphins @ Chiefs | Sat 13th 7:10PM
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354814
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/b5f6032cbd0119c7d2ea3d486c0ff842.png",EP League 2 | 11:30 AM | Newcastle United vs Manchester City
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354818
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",[NBA_PASS] ATLANTA HAWKS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354843
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] BOSTON CELTICS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354844
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] BROOKLYN NETS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354845
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] CHARLOTTE HORNETS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354846
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] CHICAGO BULLS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354847
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] Dallas Mavericks
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354848
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] DENVER NUGGETS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354849
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] DETROIT PISTONS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354850
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] GOLDEN STATE
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354851
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] Golden Warriors
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354852
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] HOUSTON ROCKETS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354853
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] LOS ANGELES CLIPPERS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354854
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] LOS ANGELES LAKERS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354855
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] Memphis Grizzlies
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354856
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] MIAMI HEAT
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354857
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] MILWAUKEE BUCKZ
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354858
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] MINNESOTA TIMBERWOLVES
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354859
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] NEW ORLEANS PELICANS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354860
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] NEW YORK KNICKS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354861
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] OKLAHOMA THUNDER
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354862
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] ORLANDO MAGIC
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354863
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] PHILA 76ERS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354864
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] PHOENIX SUNS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354865
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] PORTLAND BLAZERS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354866
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] SACRAMENTO KINGS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354867
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] SAN ANTONIO SPURS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354868
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] TORONTO RAPTORS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354869
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] UTHA JAZZ
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354870
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] WASHINGTON WIZARDS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354871
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] INDIANA PACERS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354872
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png",[NBA_PASS] CLEVELAND CAVALIERS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354873
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png",NBA 01 | Jan-13 6:00PM | Houston Rockets at Boston Celtics
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354876
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png",NBA 02 | Jan-13 6:30PM | Washington Wizards at Atlanta Hawks
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354877
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png",NBA 03 | Jan-13 7:00PM | New York Knicks at Memphis Grizzlies
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354878
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png",NBA 04 | Jan-13 7:00PM | Golden State Warriors at Milwaukee Bucks
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354879
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png",NBA 05 | Jan-13 7:00PM | Orlando Magic at Oklahoma City Thunder
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354880
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_05 | 05:30 PM | ANAHEIM DUCKS VS TAMPA BAY LIGHTNING
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354885
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_06 | 05:30 PM | LOS ANGELES KINGS VS DETROIT RED WINGS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354886
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_07 | 05:30 PM | PHILADELPHIA FLYERS VS WINNIPEG JETS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354887
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_08 | 05:30 PM | SEATTLE KRAKEN VS COLUMBUS BLUE JACKETS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354888
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_10 | 06:00 PM | EDMONTON OILERS VS MONTREAL CANADIENS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354890
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_11 | 06:30 PM | ARIZONA COYOTES VS MINNESOTA WILD
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354891
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",NHL_12 | 06:30 PM | NEW YORK ISLANDERS VS NASHVILLE PREDATORS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354892
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png",NBA 06 | Jan-13 7:30PM | New Orleans Pelicans at Dallas Mavericks
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354893
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png",NBA 07 | Jan-13 7:30PM | Chicago Bulls at San Antonio Spurs
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354894
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png",NBA 08 | Jan-13 8:30PM | Los Angeles Lakers at Utah Jazz
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354895
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/ccbc7e6d769a1729e2e3beb4a615f0c0.png",11:15 AM | EN ESPAñOL - ATHLETIC CLUB VS REAL SOCIEDAD (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354908
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/2d7ebe944b3b0e6cc1240fff3843dc3e.png",11:20 AM | SV DARMSTADT 98 VS BORUSSIA DORTMUND (BUNDESLIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354909
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/3fed0aa234e1d8436710431d3ebb7354.png",11:25 AM | IPSWICH TOWN VS SUNDERLAND
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354910
-#EXTINF:-1 group-title="EVENTOS PPV",01:50 PM | EN ESPAñOL - PSV VS EXCELSIOR
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354911
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/ccbc7e6d769a1729e2e3beb4a615f0c0.png",01:50 PM | EN ESPAñOL - RACING FERROL VS ESPANYOL (SPANISH SEGUNDA DIVISION)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354912
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/ccbc7e6d769a1729e2e3beb4a615f0c0.png",01:55 PM | EN ESPAñOL - REAL BETIS VS GRANADA (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354913
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png",Copa de Naciones de Asia | 05:25 AM CST | Australia vs. India
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354914
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/7d03e37a595c328efb0a8bdf6b62b78b.png",Serie A de Italia | 07:50 AM CST | Napoli vs. Salernitana
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354915
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/7d03e37a595c328efb0a8bdf6b62b78b.png",Serie A de Italia | 07:50 AM CST | Genoa vs. Torino
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354916
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png",Copa de Naciones de Asia | 08:25 AM CST | China vs. Tajikistan
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354917
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/f87eb01ba8eaea3e608485a26761b3ee.png",Ligue 1 de Francia | 09:50 AM CST | Monaco vs. Stade de Reims
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354918
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/7d03e37a595c328efb0a8bdf6b62b78b.png",Serie A de Italia | 10:40 AM CST | Hellas Verona vs. Empoli
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354919
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AFC_text_logo.png",Copa de Naciones de Asia | 11:25 AM CST | Uzbekistan vs. Siria
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354920
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/7d03e37a595c328efb0a8bdf6b62b78b.png",Serie A de Italia | 01:30 PM CST | Monza vs. Inter
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354921
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/99de9b208e0f866cd87d0f4536a256ff.png",Amistosos internacionales | 01:45 PM CST | Independiente Santa Fe (COL) vs. Patriotas FC (COL) | Serie Colombia
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354922
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/6512bd43d9caa6e02c990b0a82652dca.png",Eredivisie de Holanda | 01:50 PM CST | PSV vs. Excelsior
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354923
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/f87eb01ba8eaea3e608485a26761b3ee.png",Ligue 1 de Francia | 01:55 PM CST | Stade Rennais FC vs. Nice
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354924
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/99de9b208e0f866cd87d0f4536a256ff.png",Serie Río de la Plata | 02:30 PM CST | Liverpool FC vs. Rosario Central
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354925
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/0a6041042e8f5c3cbae809aa50c56ef8.png",UFC | 03:00 PM CST | Magomed Ankalaev vs. Johnny Walker
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354926
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/d0b00783fbfa615468d8b431134df4a6.png",Boxeo | 04:30 PM CST | Artur Beterbiev vs. Callum Smith
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354927
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/99de9b208e0f866cd87d0f4536a256ff.png",Amistosos internacionales | 05:30 PM CST | Boca Juniors vs. Gimnasia y Tiro
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354928
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/99de9b208e0f866cd87d0f4536a256ff.png",Serie Río de la Plata | 07:15 PM CST | Nacional vs. Unión de Santa Fe
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354929
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png",LMX | 7:00 PM | Cruz Azul vs Pachuca
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354930
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png",LMX | 9:00 PM | Monterrey vs Puebla
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354932
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png",LMX | 9:00 PM | Tijuana vs América
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354933
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://seeklogo.com/images/L/ligamx-femenil-logo-0C5F938DFC-seeklogo.com.png",MX Femenil | 6:00 PM | Pachuca vs Monterrey
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354935
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",06:30 PM | DALLAS STARS VS CHICAGO BLACKHAWKS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354936
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",06:30 PM | BOSTON BRUINS VS ST LOUIS BLUES
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354937
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="http://live.detodotvplay.com:8080/images/684a86f06e78dc54f9319d34595f5691.png",08:30 PM | CALGARY FLAMES VS VEGAS GOLDEN KNIGHTS
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/354938
 #EXTINF:-1 ,A&E HD
 http://190.61.55.186:1010/play/a01f/index.m3u8
 #EXTINF:-1 ,AMC HD
@@ -3995,46 +3157,26 @@ http://190.61.55.186:1010/play/a01i/index.m3u8
 http://190.61.55.186:1010/play/a00y/index.m3u8
 #EXTINF:-1 ,Animal Planet HD
 http://190.61.55.186:1010/play/a00o/index.m3u8
-#EXTINF:-1 ,Baby TV
-http://190.61.55.186:1010/play/a02j/index.m3u8
 #EXTINF:-1 ,CANAL 1 IP TDT
 http://190.61.55.186:1010/play/478/index.m3u8
 #EXTINF:-1 ,CARTOONITO IP
 http://190.61.55.186:1010/play/714/index.m3u8
 #EXTINF:-1 ,CNN Chile HD
 http://190.61.55.186:1010/play/a01d/index.m3u8
-#EXTINF:-1 ,CNN Espaæol
-http://190.61.55.186:1010/play/a02l/index.m3u8
-#EXTINF:-1 ,CNN International
-http://190.61.55.186:1010/play/a02m/index.m3u8
-#EXTINF:-1 ,Canal Capital
-http://190.61.55.186:1010/play/a02a/index.m3u8
 #EXTINF:-1 ,Canal Institucional
 http://190.61.55.186:1010/play/a026/index.m3u8
 #EXTINF:-1 ,Canal Institucional HD
 http://190.61.55.186:1010/play/a01r/index.m3u8
-#EXTINF:-1 ,Canal TRO
-http://190.61.55.186:1010/play/a028/index.m3u8
-#EXTINF:-1 ,Cartoon Network HD
-http://190.61.55.186:1010/play/a00j/index.m3u8
 #EXTINF:-1 ,Cinecanal HD
 http://190.61.55.186:1010/play/a00f/index.m3u8
 #EXTINF:-1 ,Cinemax HD
 http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-1 ,Cinemax IP
 http://190.61.55.186:1010/play/412/index.m3u8
-#EXTINF:-1 ,City TV
-http://190.61.55.186:1010/play/a02i/index.m3u8
-#EXTINF:-1 ,Comedy Central
-http://190.61.55.186:1010/play/a02d/index.m3u8
 #EXTINF:-1 ,Comedy Central HD
 http://190.61.55.186:1010/play/a023/index.m3u8
-#EXTINF:-1 ,Cristovisiðn
-http://190.61.55.186:1010/play/a02c/index.m3u8
 #EXTINF:-1 ,DISNEY JUNIOR IP
 http://190.61.55.186:1010/play/458/index.m3u8
-#EXTINF:-1 ,DW (Deutsch +)
-http://190.61.55.186:1010/play/a02n/index.m3u8
 #EXTINF:-1 ,Discovery H&H HD
 http://190.61.55.186:1010/play/a002/index.m3u8
 #EXTINF:-1 ,Discovery HD
@@ -4059,8 +3201,6 @@ http://190.61.55.186:1010/play/a006/index.m3u8
 http://190.61.55.186:1010/play/88/index.m3u8
 #EXTINF:-1 ,El Gourmet HD
 http://190.61.55.186:1010/play/a025/index.m3u8
-#EXTINF:-1 ,Enlace
-http://190.61.55.186:1010/play/a02b/index.m3u8
 #EXTINF:-1 ,FOX Sports 2 HD
 http://190.61.55.186:1010/play/a007/index.m3u8
 #EXTINF:-1 ,FX HD
@@ -4071,8 +3211,6 @@ http://190.61.55.186:1010/play/a00x/index.m3u8
 http://190.61.55.186:1010/play/a019/index.m3u8
 #EXTINF:-1 ,Fox Sports 3 HD
 http://190.61.55.186:1010/play/a01y/index.m3u8
-#EXTINF:-1 ,GOLPERU
-http://190.61.55.186:1010/play/a02f/index.m3u8
 #EXTINF:-1 ,GOLPERU HD
 http://190.61.55.186:1010/play/a010/index.m3u8
 #EXTINF:-1 ,GolTV HD
@@ -4101,12 +3239,8 @@ http://190.61.55.186:1010/play/a00d/index.m3u8
 http://190.61.55.186:1010/play/a01p/index.m3u8
 #EXTINF:-1 ,Paramount HD
 http://190.61.55.186:1010/play/a00k/index.m3u8
-#EXTINF:-1 ,Pasiones
-http://190.61.55.186:1010/play/a02e/index.m3u8
 #EXTINF:-1 ,Pasiones HD
 http://190.61.55.186:1010/play/a01t/index.m3u8
-#EXTINF:-1 ,RCN HD IP TDT
-http://190.61.55.186:1010/play/954/index.m3u8
 #EXTINF:-1 ,STAR CHANNEL HD
 http://190.61.55.186:1010/play/a004/index.m3u8
 #EXTINF:-1 ,Señal Colombia HD
@@ -4119,8 +3253,6 @@ http://190.61.55.186:1010/play/a01j/index.m3u8
 http://190.61.55.186:1010/play/a00l/index.m3u8
 #EXTINF:-1 ,TELEMUNDO IP
 http://190.61.55.186:1010/play/654/index.m3u8
-#EXTINF:-1 ,TNT
-http://190.61.55.186:1010/play/a02o/index.m3u8
 #EXTINF:-1 ,TNT HD
 http://190.61.55.186:1010/play/a01w/index.m3u8
 #EXTINF:-1 ,TNT SPORTS HD
@@ -4131,16 +3263,6 @@ http://190.61.55.186:1010/play/a008/index.m3u8
 http://190.61.55.186:1010/play/a024/index.m3u8
 #EXTINF:-1 ,TVN HD
 http://190.61.55.186:1010/play/a01s/index.m3u8
-#EXTINF:-1 ,Teleantioquia
-http://190.61.55.186:1010/play/a02h/index.m3u8
-#EXTINF:-1 ,Telecafe
-http://190.61.55.186:1010/play/a029/index.m3u8
-#EXTINF:-1 ,Telecaribe
-http://190.61.55.186:1010/play/a027/index.m3u8
-#EXTINF:-1 ,Telepacifico
-http://190.61.55.186:1010/play/a02g/index.m3u8
-#EXTINF:-1 ,Tooncast
-http://190.61.55.186:1010/play/a02k/index.m3u8
 #EXTINF:-1 ,UNIVERSAL CHANNEL HD
 http://190.61.55.186:1010/play/a005/index.m3u8
 #EXTINF:-1 ,VENEVISION IP
@@ -4153,5 +3275,3 @@ http://190.61.55.186:1010/play/a01m/index.m3u8
 http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 ,TVI HD
 http://50.7.137.106:8080/TVI/index.m3u8?token=test
-#EXTINF:-1 ,NAT_GEO_WILD HD
-http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
